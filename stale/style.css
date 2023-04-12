@@ -112,6 +112,7 @@ button:hover{
 .search{
 	display: flex;
 	height: 100px;
+	align-items: center;
 }
 .log{
 	Width: 66px;
@@ -144,7 +145,6 @@ button:hover{
 .header{
 	display: flex;
 	max-width: 1240px;
-	
 }
 .navig{
 	background-color: #F5F5F5;
